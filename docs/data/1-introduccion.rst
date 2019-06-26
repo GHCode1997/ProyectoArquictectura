@@ -28,3 +28,7 @@ Se utilizará como referencia "A Template for Documenting Software and Firmware"
 para estructurar en esta documentacion, describiendo de manera completa el proyecto.
 
 
+.. toctree::
+    :maxdepth: 3
+
+    1-2-visionyobjetivo.rst

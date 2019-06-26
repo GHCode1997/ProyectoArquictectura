@@ -1,6 +1,6 @@
 
 Documentación - Proyecto de Arquitectura I 
-=================================
+==========================================
 
 
     
@@ -12,7 +12,6 @@ Documentación - Proyecto de Arquitectura I
     :maxdepth: 3
    
     data/1-introduccion.rst
-    data/1-2-visionyobjetivo.rst
     data/ad-hoc-methodology.rst
     data/2-systempurpose.rst
     data/3-structure.rst
