@@ -3,11 +3,14 @@ Introducción
 
 Titulo de la Arquitectura: 
 --------------------------
-                        **Sistema para analisis y gestion de consultas del clima**
+                **Sistema para analisis y gestion de consultas del clima**
 
-Autor de diseño: 
-----------------
+
+Equipo de diseño: 
+-----------------
         - Gustavo Huerta
+        - Cristobal Marinkovic
+        - Pablo Valeria
 
 Los proyectos informaticos en presente tiempo han incrementado su complejidad de manera exponencial y se ha visto la necesidad traer conceptos
 de otras diciplinas como el de arquitectura para poder describir de algún modo los sistemas informaticos 
@@ -22,6 +25,6 @@ de manera mas adecuada, es decir, basada mas en la documentacion del mismo que e
 Este proyecto es desarrollado en el marco de la asignatura arquitectura de software. 
 
 Se utilizará como referencia "A Template for Documenting Software and Firmware" en su version 1.3
-para estructurar en esta documentacion, describiendo de manera completa.
+para estructurar en esta documentacion, describiendo de manera completa el proyecto.
 
 
