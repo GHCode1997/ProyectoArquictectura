@@ -1,18 +1,16 @@
 .. -*- coding: utf-8 -*-
 
-Siguiendo la Metodología AD-HOC
-=================================
-
-.. image:: images/AD_HOC.jpg
-    :scale: 30 %
-    :align: center
+Aplicando Metodología AD-HOC
+=============================
 
 
-Vision y Objetivo
-------------------
-La complejidad inherente de los actuales sistemas hace necesario diseñar una apropiada
-arquitectura para los sistemas, de modo de enfrentar los diversos cambios requeridos, así
-como satisfacer los requisitos funcionales como no funcionales.
+Vision
+------
+
+
+Objetivo
+--------
+
 En esta ocasión, se requiere diseñar un sistema que permita capturar parámetros
 medioambientales (temperatura y humedad) y proveer una plataforma web que permita
 visualizar en forma gráfica las temperaturas durante el dia. Se requiere además, que dicha
@@ -20,6 +18,10 @@ aplicación, pueda ser vista desde un equipo móvil (android), pero en este caso
 enviar preguntas específicas que deben ser almacenadas en el sitio web, para ser
 respondidas y que sean visibles para todos los usuarios.
 
+.. image:: images/AD_HOC.jpg
+    :scale: 50 %
+    :align: center
+    
 Se identifican los Stakeholders
 -------------------------------
 Para la realización del proyecto se ha identificado 3 tipos de usuarios.
@@ -54,7 +56,7 @@ Autorización de la publicación de mensajes.
 
 
 Historias de Usuario
--------------------
+--------------------
 
 Luego de realizar conversaciones con los stackeholder se definen y se eligen las historias de usuarios para ser implementadas en el sistema.
 
@@ -126,6 +128,7 @@ Usuario movil
 +------------------------+---------------------+---------------------------------+-------------------------------+
 | HU-MOV - 04            |      1/10           |          9/10                   |          10/10                |
 +------------------------+---------------------+---------------------------------+-------------------------------+
+
 Para el usuario movil, se implementarán las historias **HU-MOV - 01** y **HU-MOV - 04**. Las historias de usuario 
 **HU-MOV - 02** y **HU-MOV - 03** no se implementarán por el hecho de que manejar lás notificaciones es muy complejo
 y requiere más tiempo que del que se dispone.
@@ -142,6 +145,7 @@ Usuario moderador
 +------------------------+---------------------+---------------------------------+-------------------------------+
 | HU-MOD - 03            |       7/10          |          7/10                   |         8/10                  |
 +------------------------+---------------------+---------------------------------+-------------------------------+
+
 Para el usuario moderador, se implementará la historia **HU-MOD - 02**. Las historias **HU-MOD - 01** y **HU-MOD - 03** no se implementarán por el hecho de que es complejo implementar un sistema de notificaciones y no se cuenta con el tiempo suficiente.
 
 Mockups

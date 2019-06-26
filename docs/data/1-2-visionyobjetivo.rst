@@ -12,5 +12,5 @@ Objetivo
 --------
 
 Desarrollar un sistema que capture datos medioambientales (temperatura y humedad), que permita 
-visualizar en forma gráfica las temperaturas. Además, gestionar un foros de preguntas y repuestas
+visualizar en forma gráfica las temperaturas. Además, gestionar un foro de preguntas y repuestas
 sobre la situacion climatica para los usuarios del sistema. Todo esto através de plataformas web y móvil(android).  
