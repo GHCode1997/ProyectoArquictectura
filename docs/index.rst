@@ -13,12 +13,5 @@ Documentación - Proyecto de Arquitectura I
    
     data/1-introduccion.rst
     data/1-2-visionyobjetivo.rst
-    data/ad-hoc-methodology.rst
-    data/2-systempurpose.rst
-    data/3-structure.rst
-    data/4-dynamicbehavior.rst
-    data/5-mlogical2otherviewssection.rst
-    data/6-conceptualframework.rst
-    data/7-conclusion.rst
     
 
