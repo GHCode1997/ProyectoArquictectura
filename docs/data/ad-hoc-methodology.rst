@@ -1,36 +1,18 @@
 .. -*- coding: utf-8 -*-
 
 Aplicando Metodología AD-HOC
-=============================
-
-
-Vision
-------
-
-
-Objetivo
---------
-
-En esta ocasión, se requiere diseñar un sistema que permita capturar parámetros
-medioambientales (temperatura y humedad) y proveer una plataforma web que permita
-visualizar en forma gráfica las temperaturas durante el dia. Se requiere además, que dicha
-aplicación, pueda ser vista desde un equipo móvil (android), pero en este caso, se requiere
-enviar preguntas específicas que deben ser almacenadas en el sitio web, para ser
-respondidas y que sean visibles para todos los usuarios.
+============================
 
 .. image:: images/AD_HOC.jpg
     :scale: 50 %
     :align: center
-    
-Se identifican los Stakeholders
--------------------------------
-Para la realización del proyecto se ha identificado 3 tipos de usuarios.
-Usuarios Web: Es aquel usuario que se conecta al sistema desde la web.
-Usuario Móvil: Es aquel usuario que se conecta al sistema desde una App Móvil.
-Usuario Moderador: Es aquel usuario que autoriza o niega las preguntas enviadas por un usuario.
+
+Stackeholder del proyecto
+-------------------------
+
 
 Se definen los objetivos
--------------------------
+------------------------
 De acuerdo a cada uno de los usuarios identificados los los objetivos que esperan cumplir cada uno de ellos.
 
 **Usuario Web**

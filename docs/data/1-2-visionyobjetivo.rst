@@ -3,9 +3,13 @@ Visión y Objetivo General del Proyecto
 
 Visión
 ------
-Nuestra vision es lograr los beneficios de seguir una metodología para desarrollar una solución
-informatica adecuada a los requerimientos funcionales y no funcionales. Obteniendo una 
-empírica que sera valiosa en futuros proyectos 
+Nuestra vision es lograr los beneficios de seguir una metodología basada en la documentación
+para desarrollar una solución informática adecuada a los requerimientos funcionales y no 
+funcionales dados en el problema. Obteniendo una empírica que sera valiosa en proyectos 
+informáticos futuros.
+
+Nuestra visión establecer una arquitectura adecuada a los requerimientos funcionales y no 
+funcionales relacionacionados con el proyecto, evidenciado claramente en la documentación.
 
 
 Objetivo

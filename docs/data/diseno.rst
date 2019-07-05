@@ -1,5 +1,5 @@
 AD-HOC Methodology
-=================
+==================
 
 .. image:: images/AD_HOC.jpg
     :scale: 30 %
