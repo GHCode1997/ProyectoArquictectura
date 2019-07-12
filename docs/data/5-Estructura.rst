@@ -28,12 +28,7 @@ Vista desarrollo UML
     :scale: 70 %
     :align: center
 
-Vista Fisica
---------------------------
 
-.. image:: images2/diagramadespliegue.png 
-    :scale: 70 %
-    :align: center
     
 Vista Procesos
 --------------------------
@@ -65,6 +60,13 @@ Proceso UML
 --------------------------
 
 .. image:: images2/procesuml.png 
+    :scale: 70 %
+    :align: center
+    
+Vista Fisica
+--------------------------
+
+.. image:: images2/diagramadespliegue.png 
     :scale: 70 %
     :align: center
 
