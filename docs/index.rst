@@ -13,6 +13,7 @@ Documentación - Proyecto de Arquitectura I
     
     data/1-introduccion.rst
     data/2-Ad-Hoc Methodology.rst
+    data/3-Proposito del Sistema
     
     
 
