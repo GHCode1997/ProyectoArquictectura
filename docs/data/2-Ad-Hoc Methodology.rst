@@ -1,7 +1,7 @@
 Metodología: Ad-Hoc Methodology
 ======================================
 
-untiled.png
+/untiled.png
 
 Figura 1: A Visual Ad-Hoc Methodology
 
