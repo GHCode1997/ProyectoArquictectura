@@ -1,20 +1,10 @@
-Visión y Objetivo General del Proyecto
+Metodología: Ad-Hoc Methodology
 ======================================
 
-Visión
-------
-Nuestra vision es lograr los beneficios de seguir una metodología basada en la documentación
-para desarrollar una solución informática adecuada a los requerimientos funcionales y no 
-funcionales dados en el problema. Obteniendo una empírica que sera valiosa en proyectos 
-informáticos futuros.
+[](https://www.notion.so/abb8c58dd40949f7b2b02488c5162242#24a5a6a818fa4a208dcc5fbddbfa6063)
 
-Nuestra visión establecer una arquitectura adecuada a los requerimientos funcionales y no 
-funcionales relacionacionados con el proyecto, evidenciado claramente en la documentación.
+Figura 1: A Visual Ad-Hoc Methodology
 
+La metodología se aplica combinando su proceso iterativo con la estructura de documentación sugerida en [5]. Se considera que un ciclo del proceso comienza en Stakeholders y termina en Deployment.
 
-Objetivo
---------
-
-Desarrollar un sistema que capture datos medioambientales (temperatura y humedad), que permita 
-visualizar en forma gráfica las temperaturas. Además, gestionar un foro de preguntas y repuestas
-sobre la situacion climatica para los usuarios del sistema. Todo esto através de plataformas web y móvil(android).  
+La ingeniería de requerimientos, es decir, desde Stakeholders hasta Mockup, se aborda en la sección de Propósito del sistema -> Contexto -> Requerimientos de esta documentación. El resto de los elementos de la metodología se desenvuelven de manera distribuida a lo largo de la documentación.
