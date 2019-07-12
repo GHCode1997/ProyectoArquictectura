@@ -5,6 +5,12 @@ Vista general
 --------------------------
   Modelo UML
 --------------------------
+
+.. image:: images2/umlgeneral.png
+    :scale: 70 %
+    :align: center
+
+
 --------------------------
   Modelo C4
 --------------------------
