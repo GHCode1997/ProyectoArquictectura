@@ -1,7 +1,9 @@
 Metodología: Ad-Hoc Methodology
 ======================================
 
-/untiled.png
+.. image:: untiled.png
+    :scale: 40 %
+    :align: center/
 
 Figura 1: A Visual Ad-Hoc Methodology
 
