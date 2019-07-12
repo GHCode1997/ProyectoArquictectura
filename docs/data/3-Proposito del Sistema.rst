@@ -25,20 +25,26 @@ Stakeholders
 
 Historias de usuario
 -----------------
+
 -----------------
 Usuario móvil
 -----------------
+
 1.-Como un usuario móvil quiero poder realizar una pregunta medioambiental con la finalidad de que un usuario web me responda y sea publicada en un foro medioambiental.
 2.-Como un usuario móvil quiero poder desplegar un listado de preguntas medioambientales clasificadas por categoría de contestadas, no contestadas y todas las preguntas con la finalidad de leer preguntas hechas por otros usuarios con sus respectivas respuestas.
 3.-Como un usuario móvil quiero poder desplegar una gráfica de datos de humedad y temperatura en un intervalo de tiempo con la finalidad de comparar temperaturas históricas.
+
 -----------------
 Usuario web
 -----------------
+
 4.-Como un un usuario web quiero poder desplegar una gráfica de datos de humedad y temperatura en un intervalo de tiempo con la finalidad de comparar temperaturas históricas.
 5.-Como un usuario web quiero poder responder una pregunta medioambiental hecha por un usuario movil con la finalidad de que mi respuesta sea publicada en el foro.
+
 -----------------
 Usuario moderador
 -----------------
+
 6.-Como un usuario administrador quiero poder administrar los usuarios del sistema con la finalidad de eliminar a usuarios irrespetuosos.
 7.-Como un usuario administrador quiero poder gestionar todas las preguntas del sistema con la finalidad de poder eliminar preguntas y/o respuestas.
 8.-Como un usuario administrador quiero poder tener la capacidad de permitir o no permitir si las preguntas y respuestas puedan ser o no publicadas con la finalidad de restringir mensajes ofensivos e inadecuados.
