@@ -1,7 +1,7 @@
 Metodología: Ad-Hoc Methodology
 ======================================
 
-[](https://www.notion.so/abb8c58dd40949f7b2b02488c5162242#24a5a6a818fa4a208dcc5fbddbfa6063)
+untiled.png
 
 Figura 1: A Visual Ad-Hoc Methodology
 
