@@ -37,7 +37,7 @@ Mockups Usuario Movil
 --------------------------
 6.-Mockup preguntas contestadas
 --------------------------
-.. image:: images2/M-CONTES.png
+.. image:: images2/P-CONTES.png
     :scale: 50 %
     :align: center
 
