@@ -9,7 +9,7 @@ Adicionalmente, se debe mantener un foro de preguntas y respuestas sobre la situ
 
 -agregar modelo de contexto c4
 
- Visión, objetivos y área
+Visión, objetivos y área
 ----------------
 
 - Visión: Producir software robusto y de alta calidad que entregue valor a sus usuarios, en base a métodos sistemáticos fundamentados en modelos y documentación, con un importante enfoque arquitectural.
@@ -25,7 +25,15 @@ Stakeholders
 
 Historias de usuario
 -----------------
-Agregar historias de usuarios
+-----------------
+Usuario móvil
+-----------------
+-----------------
+Usuario web
+-----------------
+-----------------
+Usuario moderador
+-----------------
 
 Requerimientos no funcionales
 -----------------
