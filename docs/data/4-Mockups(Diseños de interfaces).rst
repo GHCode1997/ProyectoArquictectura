@@ -31,7 +31,7 @@ Mockups Usuario Movil
 --------------------------
 5.-Mockup preguntas sin contestar
 --------------------------
-.. image:: images2/M-SIN.png
+.. image:: images2/M-PSIN.png
     :scale: 50 %
     :align: center
 --------------------------
