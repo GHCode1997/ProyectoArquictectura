@@ -6,7 +6,7 @@ Vista general
   Modelo UML
 --------------------------
 
-.. image:: images2/umlgeneral.png
+.. image:: images2/umlgeneral2.png
     :scale: 70 %
     :align: center
 
