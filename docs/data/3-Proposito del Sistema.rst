@@ -19,8 +19,11 @@ Visión, objetivos y área
 Stakeholders
 -----------------
 - Administrador de preguntas de usuarios: Interesado en administrar los permisos de usuario, filtrar la publicación de preguntas y responderlas.
+
 - Usuario móvil: Usuario final de la aplicación móvil. Está interesado en visualizar gráficamente los parámetros medioambientales en un periodo de tiempo de los disponibles: durante el día, por semana y por mes.
+
 - Usuario web: Usuario final de la aplicación web. Está interesado en visualizar gráficamente los parámetros medioambientales en un periodo de tiempo de los disponibles: durante el día, por semana y por mes.
+
 - Pequeños empresarios agrícolas: Interesado en alimentar la información disponible para la toma de decisiones de negocio en base al historial de parámetros medioambientales en sus plantaciones.
 
 Historias de usuario
