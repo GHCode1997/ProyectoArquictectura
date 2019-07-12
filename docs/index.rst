@@ -14,6 +14,6 @@ Documentación - Proyecto de Arquitectura I
     data/1-introduccion.rst
     data/2-Ad-Hoc Methodology.rst
     data/3-Proposito del Sistema.rst
-    data/4-Mockups.rst
-	data/5-Estructura.rst
+    data/4-Mockups(Diseños de interfaces).rst
+    data/5-Estructura.rst
 
