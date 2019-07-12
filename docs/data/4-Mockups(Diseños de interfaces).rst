@@ -11,8 +11,11 @@ Mockups Usuario Movil
     :scale: 70 %
     :align: center
 --------------------------
-2.-m2
+2.-Mockup graficos
 --------------------------
+.. image:: images2/M-GRAFICOS.png
+    :scale: 70 %
+    :align: center
 
 Mockups Usuario Web
 --------------------------
