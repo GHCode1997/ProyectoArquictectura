@@ -7,7 +7,10 @@ Para implementar las herramientas de producción de software y su documentación
 
 Adicionalmente, se debe mantener un foro de preguntas y respuestas sobre la situación climática para los usuarios del sistema, en particular a través de la visualización de la aplicación a través del sistema operativo Android.
 
--agregar modelo de contexto c4
+
+.. image:: images2/diagramacontexto.png
+    :scale: 70 %
+    :align: center
 
 Visión, objetivos y área
 ----------------
