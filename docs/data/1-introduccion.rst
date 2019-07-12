@@ -1,9 +1,9 @@
 Introducción
 =================================
 
-Titulo de la Arquitectura: 
+Nombre del proyecto:
 --------------------------
-                **Sistema para analisis y gestion de consultas del clima**
+                Sistema de análisis y gestión de consultas del clima (SAGCC)
 
 
 Equipo de diseño: 
@@ -11,18 +11,16 @@ Equipo de diseño:
         - Gustavo Huerta
         - Cristobal Marinkovic
         - Pablo Valeria
+La meta de ingeniería de software es producir soluciones de software robustas, de alta calidad que provean valor a sus usuarios. Alcanzar este objetivo requiere la precisión de la ingeniería combinada con la sutileza del arte [1]. Esta meta presenta retos formidables cuando los sistemas de software a gran escala de hoy en día se encuentran entre las estructuras más complejas jamás construidas por humanos. Si estos retos no se resuelven antes de tiempo, los sistemas se entregan tarde, por encima del presupuesto o con un nivel de calidad inaceptablemente bajo [2].
 
-Los proyectos informaticos en presente tiempo han incrementado su complejidad de manera exponencial y se ha visto la necesidad traer conceptos
-de otras diciplinas como el de arquitectura para poder describir de algún modo los sistemas informaticos 
-que el dia de hoy existen. Al momento de generar un sistema, entendiendo de que se trata de un producto lógico 
-basados en procesos, y no físico como en otras diciplinas, es necesario establecer modelos que nos permita visualizar
-el sistema antes de dar a luz el mismo, para implementar un buen diseño, el cual no se tenga que lamentar los 
-errores mas comunes por lo cual fallan los sistemas. 
+La arquitectura de software de un sistema informático es el conjunto de estructuras necesarias para el razonamiento sobre el sistema, que comprende los elementos de software, las relaciones entre ellos, y propiedades de ambos. Es lo que hace que los conjuntos de partes de un sistema trabajen juntas como un todo coherente y exitoso, por lo que resulta ser crítica especialmente en sistemas de software intensivos. Ha emergido como una importante subdisciplina de la ingeniería de software [3].
 
-Este documento busca describir a través del mismo la solución informatica del problema propuesto por docente
-Dr. Ricardo Gacitua, usando su AD-HOC Methodology el cual nos permitirá desarrollar el proyecto
-de manera mas adecuada, es decir, basada mas en la documentacion del mismo que en su implementacion. 
-Este proyecto es desarrollado en el marco de la asignatura arquitectura de software. 
+Incluso la mejor arquitectura, la más adecuada para el trabajo, será esencialmente inútil si las personas que la necesitan no saben lo que es, no pueden entenderla lo suficientemente bien como para aplicarla, o la malinterpretan y aplican incorrectamente [3]. En consecuencia, la documentación es tan importante como la implementación de la solución.
 
-Se utilizará como referencia "A Template for Documenting Software and Firmware" en su version 1.3
-para estructurar en esta documentacion, describiendo de manera completa el proyecto.
+Esta documentación tiene como propósito describir la arquitectura de software de SAGCC. El proyecto está enmarcado dentro de la asignatura ICC368: Arquitectura de Software, impartida por el Dr. Ricardo Gacitúa a alumnos de la carrera Ingeniería Civil Informática de la Universidad de La Frontera ubicada en Temuco, Chile.
+
+SAGCC es una aplicación de captura, visualización y comunicación con expertos, sobre datos climáticos a través de una interfaz de usuario móvil y web. Los stakeholders son usuarios genéricos interesados en visualizar estos datos y resolver dudas potenciales, y pequeñas empresas agrícolas, que pueden mejorar sus procesos de negocio con mediciones y visualización de parámetros medioambientales de sus plantaciones.
+
+Para producir la documentación se aplican A Visual Ad-Hoc Methodology [4] y A Template for Documenting Software and Firmware Architectures [5], junto con el uso de elementos de modelado de UML 2.5.1 [6], C4 Model [7] y ArchiMate 3.0.1 [8].
+
+Esta documentación es un híbrido entre los dos tipos de documentación arquitectural descritos en [5], dado que tiene como propósito proveer un entendimiento compartido entre los stakeholders y a la vez describir la arquitectura de un modo preciso y detallado. Para esto, se representa la problemática con variados niveles de abstracción según el tema abordado.
